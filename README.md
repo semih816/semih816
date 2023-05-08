@@ -3,7 +3,7 @@
 
 - ✨ I am currently working on a special project.
 - 👨‍💻 To all my projects [Github](https://www.github.com/semih816) You can access it at.
-- 📫 How to reach me [Github](https://www.linkedin.com/in/semih-karada%C4%9F-777191235)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/semih-karada%C4%9F-777191235)
 
 
 
