@@ -28,14 +28,14 @@
  <a href="https://www.php.net" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <!-- css -->
- <a href="https://code.visualstudio.com" target="_blank">
- <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/></a> 
- <!-- css -->
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
- <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a> 
- <!-- css -->
  <a href="https://nodejs.org/tr" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
+ <!-- C# -->
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+ <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a> 
+ <!-- Visual Studio Code -->
+ <a href="https://code.visualstudio.com" target="_blank">
+ <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/></a> 
 <!--
 <hr>
 <p align="center">
