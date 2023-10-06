@@ -36,7 +36,7 @@
  <!-- Visual Studio Code -->
  <a href="https://code.visualstudio.com" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/></a> 
-
+<!--
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ffatihkaradag&count_private=true&theme=dark&show_icons=true" alt="fatih's Stats">
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
