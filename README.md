@@ -24,9 +24,6 @@
  <!-- Mysql -->
  <a> <a href="https://www.mysql.com/" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <!-- Php -->
- <a href="https://www.php.net" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <!-- Node Js -->
  <a href="https://nodejs.org/tr" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
