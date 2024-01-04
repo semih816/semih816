@@ -7,7 +7,7 @@
 
 
 
-<h3 align="left">Languages And Tools:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left">
  <!-- Html -->
  <a <a href="https://www.w3.org/html/" target="_blank">
@@ -30,9 +30,6 @@
  <!-- React# -->
  <a href="https://react.dev" target="_blank">
  <img src="https://www.svgrepo.com/show/452092/react.svg" alt="c#" width="40" height="40"/> </a> 
- <!-- Visual Studio Code -->
- <a href="https://code.visualstudio.com" target="_blank">
- <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" width="40" height="40"/></a> 
 <!--
 <hr>
 <p align="center">
